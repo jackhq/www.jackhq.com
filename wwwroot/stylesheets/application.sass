@@ -1,0 +1,78 @@
+@mixin container
+  margin-left: auto
+  margin-right: auto
+  width: 960px
+
+@mixin grid($columns)
+  display: inline
+  float: left
+  position: relative
+  padding-left: 10px
+  padding-right: 10px
+  width: (960 / 12 * $columns) - 20 + px
+
+body
+  font-family: Verdana
+  
+.clear 
+  clear: both
+  display: block
+  overflow: hidden
+  visibility: hidden
+  width: 0
+  height: 0
+  
+
+#wrap
+  @include container
+  #header
+    margin-top: 20px
+    border-bottom: 1px solid rgba(0,0,0, .2)
+    padding-bottom: 10px
+    margin-bottom: 5px
+    h1
+      @include grid(10)
+      padding: 20px
+      font-size: 2.25em  
+      color: rgba(0,0,0,.4)
+    #jackhq-logo
+      @include grid(2)
+      width: 120px
+      height: 90px
+      
+  #content
+    @include grid(8)
+    .article
+      margin: 5px
+      h2
+        font-size: 1.5em
+        color: rgba(0,128,64, .8)
+        margin: 10px 0
+      .article-content
+        margin: 10px 0
+        color: rgba(0,0,0, .5)
+        font-size: 1.1em
+        
+  #sidebar
+    @include grid(4)
+    ul
+      height: 420px
+      font-family: monospace
+      background: rgba(0,0,0, .2)
+      padding: 20px 10px
+      display: none
+      margin: 20px
+      li
+        padding: 10px
+      a
+        font-size: 1.25em
+        font-weight: bold
+        color: gray
+        
+      
+  #footer
+    margin-top: 5px
+    border-top: 1px solid rgba(0,0,0, .2)
+    p
+      padding: 10px
+      color: rgba(0,0,0, .2)

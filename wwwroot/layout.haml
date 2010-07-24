@@ -1,0 +1,27 @@
+!!!
+%html{ :xmlns => "http://www.w3.org/1999/xhtml", :lang => "en", 'xml:lang' => "en" }
+  %head
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => '/stylesheets/reset.css'}
+    / %link{:rel => 'stylesheet', :type => 'text/css', :href => '/stylesheets/text.css'}
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => '/stylesheets/smoothness/jquery-ui-1.8.custom.css'}
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => '/stylesheets/application.css'}
+
+  %body
+    #wrap
+      #header
+        %h1 Jack Russell Software Company &reg;
+        %img#jackhq-logo{:src => "http://jackhq.s3.amazonaws.com/images/jackhq.png"}
+        .clear
+      
+      = yield
+    
+      .clear
+      
+      #footer
+        %p All Rights Reserved....Jack Russell Software Company &reg; Terms of Use and Privacy Statement
+        
+    %script{:type => 'text/javascript', :src => '/javascripts/jquery-1.4.2.min.js'}
+    %script{:type => 'text/javascript', :src => '/javascripts/jquery-ui-1.8.custom.min.js'}
+    %script{:type => 'text/javascript', :src => '/javascripts/application.js'}
+    
+    
