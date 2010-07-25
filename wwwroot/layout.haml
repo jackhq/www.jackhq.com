@@ -13,8 +13,28 @@
         %img#jackhq-logo{:src => "http://jackhq.s3.amazonaws.com/images/jackhq.png"}
         .clear
       
-      = yield
-    
+      #content
+        = yield
+      
+      #sidebar
+        %ul
+          %li 
+            %a{:href => '/', :style => 'display:inline'} Mission
+          %li 
+            %a{:href => '/methodology'} Methodology
+          %li
+            %a{:href => '/technology'} Technology
+          %li 
+            %a{:href => '/team'} Team
+          %li 
+            %a{:href => '/blog'} Blog
+          %li 
+            %a{:href => '/healthcare-it'} Healthcare IT
+          %li 
+            %a{:href => '/community'} Community
+          %li 
+            %a{:href => '/contact-us'} Contact Us
+      
       .clear
       
       #footer

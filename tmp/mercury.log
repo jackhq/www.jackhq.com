@@ -2222,3 +2222,370 @@ Sass::SyntaxError: Undefined mixin 'gird'.
 127.0.0.1 - - [24/Jul/2010 13:54:58] "GET /favicon.ico HTTP/1.1" 200 3494 0.0022
 [2010-07-24 13:56:51] INFO  going to shutdown ...
 [2010-07-24 13:56:51] INFO  WEBrick::HTTPServer#start done.
+[2010-07-24 15:18:00] INFO  WEBrick 1.3.1
+[2010-07-24 15:18:00] INFO  ruby 1.8.7 (2010-06-23) [i686-darwin10.4.0]
+[2010-07-24 15:18:00] INFO  WEBrick::HTTPServer#start: pid=48505 port=9292
+127.0.0.1 - - [24/Jul/2010 15:18:06] "GET / HTTP/1.1" 200 2392 0.0134
+127.0.0.1 - - [24/Jul/2010 15:18:06] "GET / HTTP/1.1" 200 2392 0.0994
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.3445
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.3458
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /images/jrs-team.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /images/jrs-team.png HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [24/Jul/2010 15:18:07] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [24/Jul/2010 15:18:08] "GET /javascripts/application.js HTTP/1.1" 200 279 0.0302
+127.0.0.1 - - [24/Jul/2010 15:18:08] "GET /javascripts/application.js HTTP/1.1" 200 279 0.0319
+127.0.0.1 - - [24/Jul/2010 15:18:09] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [24/Jul/2010 15:18:09] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [24/Jul/2010 15:18:09] "GET /favicon.ico HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [24/Jul/2010 15:18:09] "GET /favicon.ico HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [24/Jul/2010 19:30:17] "GET / HTTP/1.1" 200 2452 0.4574
+127.0.0.1 - - [24/Jul/2010 19:30:17] "GET / HTTP/1.1" 200 2452 0.4848
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 3.1420
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /images/jrs-team.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /images/jrs-team.png HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.6178
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.6188
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /javascripts/application.js HTTP/1.1" 200 279 0.0008
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /javascripts/application.js HTTP/1.1" 200 279 0.0018
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 19:30:21] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 19:30:22] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:30:22] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [24/Jul/2010 19:30:25] "GET /methodology HTTP/1.1" 200 2693 0.3431
+127.0.0.1 - - [24/Jul/2010 19:30:25] "GET /methodology HTTP/1.1" 200 2693 0.3452
+127.0.0.1 - - [24/Jul/2010 19:30:25] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0526
+127.0.0.1 - - [24/Jul/2010 19:30:25] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0537
+127.0.0.1 - - [24/Jul/2010 19:33:53] "GET /methodology HTTP/1.1" 200 2672 0.1503
+127.0.0.1 - - [24/Jul/2010 19:33:53] "GET /methodology HTTP/1.1" 200 2672 0.1824
+127.0.0.1 - - [24/Jul/2010 19:33:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [24/Jul/2010 19:33:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0514
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1753
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1766
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /javascripts/application.js HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /javascripts/application.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /favicon.ico HTTP/1.1" 200 3494 0.0006
+127.0.0.1 - - [24/Jul/2010 19:33:54] "GET /favicon.ico HTTP/1.1" 200 3494 0.0017
+127.0.0.1 - - [24/Jul/2010 19:33:57] "GET /expertise HTTP/1.1" 200 2609 0.0699
+127.0.0.1 - - [24/Jul/2010 19:33:57] "GET /expertise HTTP/1.1" 200 2609 0.0721
+127.0.0.1 - - [24/Jul/2010 19:33:57] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0514
+127.0.0.1 - - [24/Jul/2010 19:33:57] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0526
+127.0.0.1 - - [24/Jul/2010 19:33:59] "GET /team HTTP/1.1" 200 2620 0.0207
+127.0.0.1 - - [24/Jul/2010 19:33:59] "GET /team HTTP/1.1" 200 2620 0.0225
+127.0.0.1 - - [24/Jul/2010 19:33:59] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0507
+127.0.0.1 - - [24/Jul/2010 19:33:59] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0517
+Errno::ENOENT - No such file or directory - /Users/twilson63/apps/www.jackhq.com/wwwroot/blog.haml:
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:122:in `read'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:122:in `initialize'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:123:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:123:in `initialize'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:370:in `new'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:370:in `compile_template'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:327:in `fetch'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:358:in `compile_template'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:342:in `render'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:311:in `haml'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury.rb:34:in `GET /*'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/haml-3.0.13/lib/sass/plugin/rack.rb:41:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:48:in `service'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:95:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `each'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:23:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:82:in `start'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:14:in `run'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/bin/rackup:4
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36:in `load'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19:in `load'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19
+Errno::ENOENT: No such file or directory - /Users/twilson63/apps/www.jackhq.com/wwwroot/blog.haml
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:122:in `read'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:122:in `initialize'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:123:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:123:in `initialize'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:370:in `new'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:370:in `compile_template'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/tilt.rb:327:in `fetch'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:358:in `compile_template'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:342:in `render'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:311:in `haml'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury.rb:34:in `GET /*'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/haml-3.0.13/lib/sass/plugin/rack.rb:41:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:48:in `service'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:95:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `each'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:23:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:82:in `start'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:14:in `run'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/bin/rackup:4
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36:in `load'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19:in `load'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19
+127.0.0.1 - - [24/Jul/2010 19:34:06] "GET /blog HTTP/1.1" 500 155708 0.7266
+127.0.0.1 - - [24/Jul/2010 19:34:06] "GET /blog HTTP/1.1" 500 155708 0.7286
+Errno::ENOENT - No such file or directory - /Users/twilson63/apps/www.jackhq.com/wwwroot/__sinatra__/500.png:
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury/images.rb:8:in `initialize'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury/images.rb:8:in `open'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury/images.rb:8:in `GET (?-mix:(.gif|.jpg|.png|.jpeg)$)'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/haml-3.0.13/lib/sass/plugin/rack.rb:41:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:48:in `service'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:95:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `each'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:23:in `start'
+ /Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:82:in `start'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:14:in `run'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/bin/rackup:4
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36:in `load'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19:in `load'
+ /Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19
+Errno::ENOENT: No such file or directory - /Users/twilson63/apps/www.jackhq.com/wwwroot/__sinatra__/500.png
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury/images.rb:8:in `initialize'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury/images.rb:8:in `open'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/lib/mercury/images.rb:8:in `GET (?-mix:(.gif|.jpg|.png|.jpeg)$)'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/haml-3.0.13/lib/sass/plugin/rack.rb:41:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:48:in `service'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:95:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `each'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:92:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:23:in `start'
+	/Users/twilson63/.rvm/rubies/ruby-1.8.7-p299/lib/ruby/1.8/webrick/server.rb:82:in `start'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/handler/webrick.rb:14:in `run'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/rack-1.1.0/bin/rackup:4
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36:in `load'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/gems/mercury-1.0.2/bin/mercury:36
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19:in `load'
+	/Users/twilson63/.rvm/gems/ruby-1.8.7-p299/bin/mercury:19
+127.0.0.1 - - [24/Jul/2010 19:34:06] "GET /__sinatra__/500.png HTTP/1.1" 500 134982 0.1732
+127.0.0.1 - - [24/Jul/2010 19:34:06] "GET /__sinatra__/500.png HTTP/1.1" 500 134982 0.1746
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /team HTTP/1.1" 200 2690 0.1727
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /team HTTP/1.1" 200 2690 0.1920
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1815
+127.0.0.1 - - [24/Jul/2010 19:36:10] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1825
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /javascripts/application.js HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /javascripts/application.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0006
+127.0.0.1 - - [24/Jul/2010 19:36:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0021
+127.0.0.1 - - [24/Jul/2010 19:36:14] "GET /blog HTTP/1.1" 200 2588 0.0579
+127.0.0.1 - - [24/Jul/2010 19:36:14] "GET /blog HTTP/1.1" 200 2588 0.0601
+127.0.0.1 - - [24/Jul/2010 19:36:14] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0523
+127.0.0.1 - - [24/Jul/2010 19:36:14] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0534
+127.0.0.1 - - [24/Jul/2010 19:36:17] "GET /healthcare-it HTTP/1.1" 200 2628 0.0520
+127.0.0.1 - - [24/Jul/2010 19:36:17] "GET /healthcare-it HTTP/1.1" 200 2628 0.0538
+127.0.0.1 - - [24/Jul/2010 19:36:17] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0514
+127.0.0.1 - - [24/Jul/2010 19:36:17] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0525
+127.0.0.1 - - [24/Jul/2010 19:36:19] "GET /community HTTP/1.1" 200 2659 0.0345
+127.0.0.1 - - [24/Jul/2010 19:36:19] "GET /community HTTP/1.1" 200 2659 0.0356
+127.0.0.1 - - [24/Jul/2010 19:36:19] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1128
+127.0.0.1 - - [24/Jul/2010 19:36:19] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1139
+127.0.0.1 - - [24/Jul/2010 19:36:22] "GET /contact-us HTTP/1.1" 200 2725 0.0247
+127.0.0.1 - - [24/Jul/2010 19:36:22] "GET /contact-us HTTP/1.1" 200 2725 0.0265
+127.0.0.1 - - [24/Jul/2010 19:36:22] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0535
+127.0.0.1 - - [24/Jul/2010 19:36:22] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0545
+127.0.0.1 - - [24/Jul/2010 19:36:25] "GET / HTTP/1.1" 200 2452 0.0763
+127.0.0.1 - - [24/Jul/2010 19:36:25] "GET / HTTP/1.1" 200 2452 0.0782
+127.0.0.1 - - [24/Jul/2010 19:36:25] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0507
+127.0.0.1 - - [24/Jul/2010 19:36:25] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0518
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET / HTTP/1.1" 200 2426 0.0357
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET / HTTP/1.1" 200 2426 0.0490
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /images/jrs-team.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /images/jrs-team.png HTTP/1.1" 304 - 0.1182
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1763
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.1774
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /javascripts/application.js HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [24/Jul/2010 20:38:55] "GET /javascripts/application.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [24/Jul/2010 20:38:56] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [24/Jul/2010 20:38:56] "GET /stylesheets/smoothness/images/ui-icons_222222_256x240.png HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [24/Jul/2010 20:38:56] "GET /favicon.ico HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [24/Jul/2010 20:38:56] "GET /favicon.ico HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [24/Jul/2010 20:38:58] "GET /methodology HTTP/1.1" 200 2588 0.0415
+127.0.0.1 - - [24/Jul/2010 20:38:58] "GET /methodology HTTP/1.1" 200 2588 0.0426
+127.0.0.1 - - [24/Jul/2010 20:38:58] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0574
+127.0.0.1 - - [24/Jul/2010 20:38:58] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0587
+127.0.0.1 - - [24/Jul/2010 20:39:00] "GET /technology HTTP/1.1" 200 2827 0.0165
+127.0.0.1 - - [24/Jul/2010 20:39:00] "GET /technology HTTP/1.1" 200 2827 0.0187
+127.0.0.1 - - [24/Jul/2010 20:39:00] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0518
+127.0.0.1 - - [24/Jul/2010 20:39:00] "GET /stylesheets/application.css HTTP/1.1" 200 1935 0.0528
+[2010-07-24 21:10:26] INFO  going to shutdown ...
+[2010-07-24 21:10:26] INFO  WEBrick::HTTPServer#start done.
