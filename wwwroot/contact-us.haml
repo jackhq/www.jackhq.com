@@ -1,9 +1,33 @@
 .article
   %h2 Contact Us
   .article-content
-    %ul
-      %li Address
-      %li Phone
-      %li Email
-      %li Twitter
-      %li Facebook
+    %ul.contact
+      %li
+        = haml :'partials/map', :layout => false
+        %h3 Address
+        %p 
+          Jack Russell Software Company
+          %br
+          1067 Cliffwood Drive
+          %br
+          Mount Pleasant, SC  29464
+          %br
+          = haml :'partials/map-link', :layout => false
+          
+      %li 
+        %h3 Phone
+        %p 
+          %a{:href => 'callto:843.606.0637'} 843.606.0637
+      %li 
+        %h3 Email
+        %p 
+          %a{:href => 'mailto:info@jackrussellsoftware.com'} info@jackrussellsoftware.com
+      %li 
+        %h3 Twitter
+        %p 
+          %a{:href => 'http://twitter.com/jackhq'} @jackhq
+      %li 
+        %h3 Facebook
+        %p
+          %a{:href => 'http://www.facebook.com/pages/Charleston-SC/Jack-Russell-Software'} Facebook Page
+    .clear
